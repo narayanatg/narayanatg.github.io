@@ -1,1 +1,2 @@
-checking tag command
+checking tagcommand
+tagcmd not working
